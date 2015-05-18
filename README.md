@@ -1,0 +1,2 @@
+# AvoidMemoryLeaksDemo
+关于引用context与handler可能导致内存泄露问题写的一份demo
